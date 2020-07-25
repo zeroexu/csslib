@@ -1,0 +1,13 @@
+// 1.Overwrite stuff
+
+$base: teal;
+$base-inverse: white;
+$base-alt: #c7230a;
+$base-alt-inverse: white;
+
+$primary-bg: $base-inverse;
+$primary-link-color: $main-color;
+$primary-text-color: darken(gray, 10%);
+$secondary-bg: $base-alt-inverse;
+$secondary-link-color: $base-alt;
+$secondary-text-color: darken(gray, 10%);
